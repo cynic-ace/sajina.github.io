@@ -7,6 +7,9 @@
 body {
   background-color: #ff0072;
 }
+html {
+  scroll-behavior: smooth;
+}
 .firstsection {
   display: flex;
   align-items: center;
